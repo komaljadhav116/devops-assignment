@@ -1,5 +1,13 @@
+# Terraform
 terraform/.terraform/
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 *.tfstate
 *.tfstate.backup
+
+# NodeJS
+node_modules/
+npm-debug.log
+
+# Others
+.DS_Store
